@@ -17,6 +17,7 @@
 Практические лабораторные работы и решения машин:
 
 - [TryHackMe Machines](https://github.com/FricasseMochpit/TryHackMe_Machines)
+- [TryHackMe Machines](https://github.com/FricasseMochpit/VulnHub_Machines)
 
 ## 🎓 Certifications & Training
 
